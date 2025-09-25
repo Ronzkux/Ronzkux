@@ -1,10 +1,6 @@
 
 <p align="center">
 Trying my best to finish my studies. <br>
-  But also focusing on Boot.dev on the side.
-</p>
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/43744296-5b99-483a-99f0-1b768f4ca25a/thumbnail" >
 </p>
 <!--
 **Ronzkux/Ronzkux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
