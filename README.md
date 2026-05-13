@@ -1,6 +1,6 @@
 
 <p align="center">
-Trying my best to finish my studies. <br>
+Recently graduated as a Software Developer, epic things to come.. Hopefully. <br>
 </p>
 <!--
 **Ronzkux/Ronzkux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
